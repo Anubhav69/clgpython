@@ -1,0 +1,13 @@
+a=int( input("enter first number "))
+b=int (input("enter second number"))
+c=int(input("enter thired number"))
+if a>b and a>c :
+    print(a,"is greater")
+
+if b>a and b>c:
+        print(b,"is greate r")
+if c>a and c>b:
+    print(c,"is greater")
+
+
+
